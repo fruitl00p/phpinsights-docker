@@ -1,5 +1,10 @@
 # Dockerized PhpInsights
 
+[![Docker stars](https://img.shields.io/docker/stars/gekkie/phpinsights.svg)](https://hub.docker.com/r/gekkie/phpinsights/)
+[![Docker pulls](https://img.shields.io/docker/pulls/gekkie/phpinsights.svg)](https://hub.docker.com/r/gekkie/phpinsights/)
+[![Image layers](https://images.microbadger.com/badges/image/gekkie/phpinsights.svg)](https://microbadger.com/images/gekkie/phpinsights)
+[![Image release](https://images.microbadger.com/badges/version/gekkie/phpinsights.svg)](https://microbadger.com/images/gekkie/phpinsights)
+
 This is a dockerized version of PHPInsights.
 
 ## running
