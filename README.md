@@ -5,7 +5,7 @@
 [![Image layers](https://images.microbadger.com/badges/image/gekkie/phpinsights.svg)](https://microbadger.com/images/gekkie/phpinsights)
 [![Image release](https://images.microbadger.com/badges/version/gekkie/phpinsights.svg)](https://microbadger.com/images/gekkie/phpinsights)
 
-This is a dockerized version of PHPInsights.
+This is a dockerized version of [PHPInsights](https://github.com/nunomaduro/phpinsights).
 
 ## running
 
